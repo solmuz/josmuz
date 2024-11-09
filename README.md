@@ -1,2 +1,1 @@
-# solmuz.github.io
-my portfolio
+# this is my portfolio
